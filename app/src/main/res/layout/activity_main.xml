@@ -6,13 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".Main">
 
-    <TextView
-        android:layout_width="91dp"
-        android:layout_height="36dp"
-        android:text="Al bunu alamazz mısın"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
+    <Button
+        android:id="@+id/button"
+        android:layout_width="260dp"
+        android:layout_height="280dp"
+        android:background="@drawable/harfalayım"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="143dp" />
 </android.support.constraint.ConstraintLayout>
