@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="91dp"
         android:layout_height="36dp"
-        android:text="Al bunu alamaz mısın"
+        android:text="Al bunu alamazz mısın"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
