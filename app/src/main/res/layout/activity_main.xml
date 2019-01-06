@@ -12,5 +12,5 @@
         android:layout_height="280dp"
         android:background="@drawable/harfalayım"
         tools:layout_editor_absoluteX="62dp"
-        tools:layout_editor_absoluteY="143dp" />
+        tools:layout_editor_absoluteY="115dp" />
 </android.support.constraint.ConstraintLayout>
